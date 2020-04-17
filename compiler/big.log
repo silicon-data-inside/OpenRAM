@@ -1,0 +1,6 @@
+[globals/init_openram]: Initializing OpenRAM...
+[globals/setup_paths]: Temporary files saved in /tmp/openram_jindo_933_temp/
+[globals/read_config]: Configuration file is /mnt/g/lGit/OpenRAM/compiler/example_configs/giant_config_scn4m_subm.py
+[globals/read_config]: Output saved in /mnt/g/lGit/OpenRAM/compiler/temp/
+[globals/import_tech]: Adding technology path: /mnt/g/lGit/OpenRAM/technology
+[globals/init_paths]: Creating temp directory: /tmp/openram_jindo_933_temp/

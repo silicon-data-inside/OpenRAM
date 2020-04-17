@@ -1,0 +1,57 @@
+|==============================================================================|
+|=========                       OpenRAM v1.1.4                       =========|
+|=========                                                            =========|
+|=========               VLSI Design and Automation Lab               =========|
+|=========        Computer Science and Engineering Department         =========|
+|=========            University of California Santa Cruz             =========|
+|=========                                                            =========|
+|=========          Usage help: openram-user-group@ucsc.edu           =========|
+|=========        Development help: openram-dev-group@ucsc.edu        =========|
+|=========          Temp dir: /tmp/openram_jindo_3882_temp/           =========|
+|=========                See LICENSE for license info                =========|
+|==============================================================================|
+** Start: 03/29/2020 11:08:16
+Technology: scn4m_subm
+Total size: 32 bits
+Word size: 2
+Words: 16
+Banks: 1
+Write size: None
+RW ports: 1
+R-only ports: 0
+W-only ports: 0
+Design supply routing skipped. Supplies will have multiple must-connect pins. (route_supplies=True to enable supply routing).
+DRC/LVS/PEX is only run on the top-level design to save run-time (inline_lvsdrc=True to do inline checking).
+DRC/LVS/PEX is disabled (check_lvsdrc=True to enable).
+Characterization is disabled (using analytical delay models) (analytical_delay=False to simulate).
+Only characterizing nominal corner.
+Words per row: 1
+Output files are: 
+/home/jindo/lGit/OpenRAM/temp/sram_2_16_scn4m_subm.sp
+/home/jindo/lGit/OpenRAM/temp/sram_2_16_scn4m_subm.v
+/home/jindo/lGit/OpenRAM/temp/sram_2_16_scn4m_subm.lib
+/home/jindo/lGit/OpenRAM/temp/sram_2_16_scn4m_subm.py
+/home/jindo/lGit/OpenRAM/temp/sram_2_16_scn4m_subm.html
+/home/jindo/lGit/OpenRAM/temp/sram_2_16_scn4m_subm.log
+/home/jindo/lGit/OpenRAM/temp/sram_2_16_scn4m_subm.lef
+/home/jindo/lGit/OpenRAM/temp/sram_2_16_scn4m_subm.gds
+** Submodules: 1.2 seconds
+** Placement: 0.0 seconds
+** Routing: 0.0 seconds
+** Verification: 0.0 seconds
+** SRAM creation: 1.4 seconds
+LEF: Writing to /home/jindo/lGit/OpenRAM/temp/sram_2_16_scn4m_subm.lef
+** LEF: 0.5 seconds
+GDS: Writing to /home/jindo/lGit/OpenRAM/temp/sram_2_16_scn4m_subm.gds
+** GDS: 0.2 seconds
+SP: Writing to /home/jindo/lGit/OpenRAM/temp/sram_2_16_scn4m_subm.sp
+** Spice writing: 0.0 seconds
+LIB: Characterizing... 
+** Characterization: 0.2 seconds
+Config: Writing to /home/jindo/lGit/OpenRAM/temp/sram_2_16_scn4m_subm.py
+** Config: 0.0 seconds
+Datasheet: Writing to /home/jindo/lGit/OpenRAM/temp/sram_2_16_scn4m_subm.html
+** Datasheet: 0.1 seconds
+Verilog: Writing to /home/jindo/lGit/OpenRAM/temp/sram_2_16_scn4m_subm.v
+** Verilog: 0.0 seconds
+** End: 2.6 seconds
